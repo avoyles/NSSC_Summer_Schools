@@ -1,0 +1,1357 @@
+[
+    {
+        "name": "water",
+        "energy": 48.25,
+        "flux": 6.6667e-06
+    },
+    {
+        "name": "water",
+        "energy": 48.35,
+        "flux": 6.6667e-06
+    },
+    {
+        "name": "water",
+        "energy": 48.45,
+        "flux": 1.33333e-05
+    },
+    {
+        "name": "water",
+        "energy": 48.55,
+        "flux": 4.66667e-05
+    },
+    {
+        "name": "water",
+        "energy": 48.65,
+        "flux": 6.66667e-05
+    },
+    {
+        "name": "water",
+        "energy": 48.75,
+        "flux": 8e-05
+    },
+    {
+        "name": "water",
+        "energy": 48.85,
+        "flux": 0.0001
+    },
+    {
+        "name": "water",
+        "energy": 48.95,
+        "flux": 0.0001933333
+    },
+    {
+        "name": "water",
+        "energy": 49.05,
+        "flux": 0.0001733333
+    },
+    {
+        "name": "water",
+        "energy": 49.15,
+        "flux": 0.00032
+    },
+    {
+        "name": "water",
+        "energy": 49.25,
+        "flux": 0.0004866667
+    },
+    {
+        "name": "water",
+        "energy": 49.35,
+        "flux": 0.0005533333
+    },
+    {
+        "name": "water",
+        "energy": 49.45,
+        "flux": 0.0007666667
+    },
+    {
+        "name": "water",
+        "energy": 49.55,
+        "flux": 0.001
+    },
+    {
+        "name": "water",
+        "energy": 49.65,
+        "flux": 0.0014266667
+    },
+    {
+        "name": "water",
+        "energy": 49.75,
+        "flux": 0.0017866667
+    },
+    {
+        "name": "water",
+        "energy": 49.85,
+        "flux": 0.0020333333
+    },
+    {
+        "name": "water",
+        "energy": 49.95,
+        "flux": 0.0024
+    },
+    {
+        "name": "water",
+        "energy": 50.05,
+        "flux": 0.0028533333
+    },
+    {
+        "name": "water",
+        "energy": 50.15,
+        "flux": 0.0038
+    },
+    {
+        "name": "water",
+        "energy": 50.25,
+        "flux": 0.00392
+    },
+    {
+        "name": "water",
+        "energy": 50.35,
+        "flux": 0.0045466667
+    },
+    {
+        "name": "water",
+        "energy": 50.45,
+        "flux": 0.00556
+    },
+    {
+        "name": "water",
+        "energy": 50.55,
+        "flux": 0.0060666667
+    },
+    {
+        "name": "water",
+        "energy": 50.65,
+        "flux": 0.0061266667
+    },
+    {
+        "name": "water",
+        "energy": 50.75,
+        "flux": 0.00682
+    },
+    {
+        "name": "water",
+        "energy": 50.85,
+        "flux": 0.0074666667
+    },
+    {
+        "name": "water",
+        "energy": 50.95,
+        "flux": 0.0075
+    },
+    {
+        "name": "water",
+        "energy": 51.05,
+        "flux": 0.00792
+    },
+    {
+        "name": "water",
+        "energy": 51.15,
+        "flux": 0.00878
+    },
+    {
+        "name": "water",
+        "energy": 51.25,
+        "flux": 0.0088133333
+    },
+    {
+        "name": "water",
+        "energy": 51.35,
+        "flux": 0.0088933333
+    },
+    {
+        "name": "water",
+        "energy": 51.45,
+        "flux": 0.009
+    },
+    {
+        "name": "water",
+        "energy": 51.55,
+        "flux": 0.00916
+    },
+    {
+        "name": "water",
+        "energy": 51.65,
+        "flux": 0.00916
+    },
+    {
+        "name": "water",
+        "energy": 51.75,
+        "flux": 0.0091466667
+    },
+    {
+        "name": "water",
+        "energy": 51.85,
+        "flux": 0.00992
+    },
+    {
+        "name": "water",
+        "energy": 51.95,
+        "flux": 0.0095066667
+    },
+    {
+        "name": "water",
+        "energy": 52.05,
+        "flux": 0.0095333333
+    },
+    {
+        "name": "water",
+        "energy": 52.15,
+        "flux": 0.0095133333
+    },
+    {
+        "name": "water",
+        "energy": 52.25,
+        "flux": 0.0095733333
+    },
+    {
+        "name": "water",
+        "energy": 52.35,
+        "flux": 0.0093733333
+    },
+    {
+        "name": "water",
+        "energy": 52.45,
+        "flux": 0.00948
+    },
+    {
+        "name": "water",
+        "energy": 52.55,
+        "flux": 0.01004
+    },
+    {
+        "name": "water",
+        "energy": 52.65,
+        "flux": 0.0098
+    },
+    {
+        "name": "water",
+        "energy": 52.75,
+        "flux": 0.0095
+    },
+    {
+        "name": "water",
+        "energy": 52.85,
+        "flux": 0.00972
+    },
+    {
+        "name": "water",
+        "energy": 52.95,
+        "flux": 0.0096666667
+    },
+    {
+        "name": "water",
+        "energy": 53.05,
+        "flux": 0.0094133333
+    },
+    {
+        "name": "water",
+        "energy": 53.15,
+        "flux": 0.00982
+    },
+    {
+        "name": "water",
+        "energy": 53.25,
+        "flux": 0.0100066667
+    },
+    {
+        "name": "water",
+        "energy": 53.35,
+        "flux": 0.00992
+    },
+    {
+        "name": "water",
+        "energy": 53.45,
+        "flux": 0.00956
+    },
+    {
+        "name": "water",
+        "energy": 53.55,
+        "flux": 0.0098066667
+    },
+    {
+        "name": "water",
+        "energy": 53.65,
+        "flux": 0.0097866667
+    },
+    {
+        "name": "water",
+        "energy": 53.75,
+        "flux": 0.0093933333
+    },
+    {
+        "name": "water",
+        "energy": 53.85,
+        "flux": 0.01006
+    },
+    {
+        "name": "water",
+        "energy": 53.95,
+        "flux": 0.0102266667
+    },
+    {
+        "name": "water",
+        "energy": 54.05,
+        "flux": 0.00976
+    },
+    {
+        "name": "water",
+        "energy": 54.15,
+        "flux": 0.0096933333
+    },
+    {
+        "name": "water",
+        "energy": 54.25,
+        "flux": 0.0099
+    },
+    {
+        "name": "water",
+        "energy": 54.35,
+        "flux": 0.01
+    },
+    {
+        "name": "water",
+        "energy": 54.45,
+        "flux": 0.0094133333
+    },
+    {
+        "name": "water",
+        "energy": 54.55,
+        "flux": 0.0104133333
+    },
+    {
+        "name": "water",
+        "energy": 54.65,
+        "flux": 0.0102066667
+    },
+    {
+        "name": "water",
+        "energy": 54.75,
+        "flux": 0.00978
+    },
+    {
+        "name": "water",
+        "energy": 54.85,
+        "flux": 0.0097666667
+    },
+    {
+        "name": "water",
+        "energy": 54.95,
+        "flux": 0.01006
+    },
+    {
+        "name": "water",
+        "energy": 55.05,
+        "flux": 0.0099733333
+    },
+    {
+        "name": "water",
+        "energy": 55.15,
+        "flux": 0.00974
+    },
+    {
+        "name": "water",
+        "energy": 55.25,
+        "flux": 0.0105333333
+    },
+    {
+        "name": "water",
+        "energy": 55.35,
+        "flux": 0.0102
+    },
+    {
+        "name": "water",
+        "energy": 55.45,
+        "flux": 0.0098533333
+    },
+    {
+        "name": "water",
+        "energy": 55.55,
+        "flux": 0.0100733333
+    },
+    {
+        "name": "water",
+        "energy": 55.65,
+        "flux": 0.0101133333
+    },
+    {
+        "name": "water",
+        "energy": 55.75,
+        "flux": 0.0096866667
+    },
+    {
+        "name": "water",
+        "energy": 55.85,
+        "flux": 0.0103266667
+    },
+    {
+        "name": "water",
+        "energy": 55.95,
+        "flux": 0.0105066667
+    },
+    {
+        "name": "water",
+        "energy": 56.05,
+        "flux": 0.0099933333
+    },
+    {
+        "name": "water",
+        "energy": 56.15,
+        "flux": 0.01
+    },
+    {
+        "name": "water",
+        "energy": 56.25,
+        "flux": 0.0102066667
+    },
+    {
+        "name": "water",
+        "energy": 56.35,
+        "flux": 0.0103266667
+    },
+    {
+        "name": "water",
+        "energy": 56.45,
+        "flux": 0.0098
+    },
+    {
+        "name": "water",
+        "energy": 56.55,
+        "flux": 0.01064
+    },
+    {
+        "name": "water",
+        "energy": 56.65,
+        "flux": 0.0104266667
+    },
+    {
+        "name": "water",
+        "energy": 56.75,
+        "flux": 0.0100933333
+    },
+    {
+        "name": "water",
+        "energy": 56.85,
+        "flux": 0.0101666667
+    },
+    {
+        "name": "water",
+        "energy": 56.95,
+        "flux": 0.0103466667
+    },
+    {
+        "name": "water",
+        "energy": 57.05,
+        "flux": 0.0099333333
+    },
+    {
+        "name": "water",
+        "energy": 57.15,
+        "flux": 0.01052
+    },
+    {
+        "name": "water",
+        "energy": 57.25,
+        "flux": 0.0105866667
+    },
+    {
+        "name": "water",
+        "energy": 57.35,
+        "flux": 0.01022
+    },
+    {
+        "name": "water",
+        "energy": 57.45,
+        "flux": 0.0101866667
+    },
+    {
+        "name": "water",
+        "energy": 57.55,
+        "flux": 0.0103333333
+    },
+    {
+        "name": "water",
+        "energy": 57.65,
+        "flux": 0.0105466667
+    },
+    {
+        "name": "water",
+        "energy": 57.75,
+        "flux": 0.0099733333
+    },
+    {
+        "name": "water",
+        "energy": 57.85,
+        "flux": 0.01088
+    },
+    {
+        "name": "water",
+        "energy": 57.95,
+        "flux": 0.0105133333
+    },
+    {
+        "name": "water",
+        "energy": 58.05,
+        "flux": 0.0102933333
+    },
+    {
+        "name": "water",
+        "energy": 58.15,
+        "flux": 0.0104733333
+    },
+    {
+        "name": "water",
+        "energy": 58.25,
+        "flux": 0.0103866667
+    },
+    {
+        "name": "water",
+        "energy": 58.35,
+        "flux": 0.0100666667
+    },
+    {
+        "name": "water",
+        "energy": 58.45,
+        "flux": 0.01074
+    },
+    {
+        "name": "water",
+        "energy": 58.55,
+        "flux": 0.0109666667
+    },
+    {
+        "name": "water",
+        "energy": 58.65,
+        "flux": 0.0102733333
+    },
+    {
+        "name": "water",
+        "energy": 58.75,
+        "flux": 0.0103
+    },
+    {
+        "name": "water",
+        "energy": 58.85,
+        "flux": 0.01058
+    },
+    {
+        "name": "water",
+        "energy": 58.95,
+        "flux": 0.0102866667
+    },
+    {
+        "name": "water",
+        "energy": 59.05,
+        "flux": 0.0104
+    },
+    {
+        "name": "water",
+        "energy": 59.15,
+        "flux": 0.0107866667
+    },
+    {
+        "name": "water",
+        "energy": 59.25,
+        "flux": 0.01012
+    },
+    {
+        "name": "water",
+        "energy": 59.35,
+        "flux": 0.0099666667
+    },
+    {
+        "name": "water",
+        "energy": 59.45,
+        "flux": 0.00996
+    },
+    {
+        "name": "water",
+        "energy": 59.55,
+        "flux": 0.0097933333
+    },
+    {
+        "name": "water",
+        "energy": 59.65,
+        "flux": 0.0090533333
+    },
+    {
+        "name": "water",
+        "energy": 59.75,
+        "flux": 0.00902
+    },
+    {
+        "name": "water",
+        "energy": 59.85,
+        "flux": 0.0086333333
+    },
+    {
+        "name": "water",
+        "energy": 59.95,
+        "flux": 0.0077333333
+    },
+    {
+        "name": "water",
+        "energy": 60.05,
+        "flux": 0.00738
+    },
+    {
+        "name": "water",
+        "energy": 60.15,
+        "flux": 0.0063133333
+    },
+    {
+        "name": "water",
+        "energy": 60.25,
+        "flux": 0.0055466667
+    },
+    {
+        "name": "water",
+        "energy": 60.35,
+        "flux": 0.0052933333
+    },
+    {
+        "name": "water",
+        "energy": 60.45,
+        "flux": 0.0042133333
+    },
+    {
+        "name": "water",
+        "energy": 60.55,
+        "flux": 0.0036733333
+    },
+    {
+        "name": "water",
+        "energy": 60.65,
+        "flux": 0.0029
+    },
+    {
+        "name": "water",
+        "energy": 60.75,
+        "flux": 0.0022333333
+    },
+    {
+        "name": "water",
+        "energy": 60.85,
+        "flux": 0.0017
+    },
+    {
+        "name": "water",
+        "energy": 60.95,
+        "flux": 0.0015333333
+    },
+    {
+        "name": "water",
+        "energy": 61.05,
+        "flux": 0.0009866667
+    },
+    {
+        "name": "water",
+        "energy": 61.15,
+        "flux": 0.0006666667
+    },
+    {
+        "name": "water",
+        "energy": 61.25,
+        "flux": 0.0004666667
+    },
+    {
+        "name": "water",
+        "energy": 61.35,
+        "flux": 0.00036
+    },
+    {
+        "name": "water",
+        "energy": 61.45,
+        "flux": 0.0001933333
+    },
+    {
+        "name": "water",
+        "energy": 61.55,
+        "flux": 0.00018
+    },
+    {
+        "name": "water",
+        "energy": 61.65,
+        "flux": 8e-05
+    },
+    {
+        "name": "water",
+        "energy": 61.75,
+        "flux": 5.33333e-05
+    },
+    {
+        "name": "water",
+        "energy": 61.85,
+        "flux": 1.33333e-05
+    },
+    {
+        "name": "water",
+        "energy": 61.95,
+        "flux": 3.33333e-05
+    },
+    {
+        "name": "water",
+        "energy": 62.05,
+        "flux": 1.33333e-05
+    },
+    {
+        "name": "water",
+        "energy": 62.15,
+        "flux": 2.66667e-05
+    },
+    {
+        "name": "salt",
+        "energy": 48.15,
+        "flux": 6.66667e-05
+    },
+    {
+        "name": "salt",
+        "energy": 48.25,
+        "flux": 0.0001
+    },
+    {
+        "name": "salt",
+        "energy": 48.35,
+        "flux": 0.0001333333
+    },
+    {
+        "name": "salt",
+        "energy": 48.45,
+        "flux": 0.0003333333
+    },
+    {
+        "name": "salt",
+        "energy": 48.55,
+        "flux": 0.0008666667
+    },
+    {
+        "name": "salt",
+        "energy": 48.65,
+        "flux": 0.0011333333
+    },
+    {
+        "name": "salt",
+        "energy": 48.75,
+        "flux": 0.0012333333
+    },
+    {
+        "name": "salt",
+        "energy": 48.85,
+        "flux": 0.0020333333
+    },
+    {
+        "name": "salt",
+        "energy": 48.95,
+        "flux": 0.0026333333
+    },
+    {
+        "name": "salt",
+        "energy": 49.05,
+        "flux": 0.0029333333
+    },
+    {
+        "name": "salt",
+        "energy": 49.15,
+        "flux": 0.0053333333
+    },
+    {
+        "name": "salt",
+        "energy": 49.25,
+        "flux": 0.0075
+    },
+    {
+        "name": "salt",
+        "energy": 49.35,
+        "flux": 0.0076333333
+    },
+    {
+        "name": "salt",
+        "energy": 49.45,
+        "flux": 0.0123666667
+    },
+    {
+        "name": "salt",
+        "energy": 49.55,
+        "flux": 0.0142
+    },
+    {
+        "name": "salt",
+        "energy": 49.65,
+        "flux": 0.0219
+    },
+    {
+        "name": "salt",
+        "energy": 49.75,
+        "flux": 0.0250666667
+    },
+    {
+        "name": "salt",
+        "energy": 49.85,
+        "flux": 0.0273333333
+    },
+    {
+        "name": "salt",
+        "energy": 49.95,
+        "flux": 0.0309
+    },
+    {
+        "name": "salt",
+        "energy": 50.05,
+        "flux": 0.0388333333
+    },
+    {
+        "name": "salt",
+        "energy": 50.15,
+        "flux": 0.0459333333
+    },
+    {
+        "name": "salt",
+        "energy": 50.25,
+        "flux": 0.0453
+    },
+    {
+        "name": "salt",
+        "energy": 50.35,
+        "flux": 0.0512
+    },
+    {
+        "name": "salt",
+        "energy": 50.45,
+        "flux": 0.0584
+    },
+    {
+        "name": "salt",
+        "energy": 50.55,
+        "flux": 0.0590666667
+    },
+    {
+        "name": "salt",
+        "energy": 50.65,
+        "flux": 0.0573666667
+    },
+    {
+        "name": "salt",
+        "energy": 50.75,
+        "flux": 0.0586333333
+    },
+    {
+        "name": "salt",
+        "energy": 50.85,
+        "flux": 0.0559
+    },
+    {
+        "name": "salt",
+        "energy": 50.95,
+        "flux": 0.0518333333
+    },
+    {
+        "name": "salt",
+        "energy": 51.05,
+        "flux": 0.0518666667
+    },
+    {
+        "name": "salt",
+        "energy": 51.15,
+        "flux": 0.0459333333
+    },
+    {
+        "name": "salt",
+        "energy": 51.25,
+        "flux": 0.0401666667
+    },
+    {
+        "name": "salt",
+        "energy": 51.35,
+        "flux": 0.0372
+    },
+    {
+        "name": "salt",
+        "energy": 51.45,
+        "flux": 0.0306333333
+    },
+    {
+        "name": "salt",
+        "energy": 51.55,
+        "flux": 0.0235
+    },
+    {
+        "name": "salt",
+        "energy": 51.65,
+        "flux": 0.0211
+    },
+    {
+        "name": "salt",
+        "energy": 51.75,
+        "flux": 0.0175333333
+    },
+    {
+        "name": "salt",
+        "energy": 51.85,
+        "flux": 0.0131
+    },
+    {
+        "name": "salt",
+        "energy": 51.95,
+        "flux": 0.0095333333
+    },
+    {
+        "name": "salt",
+        "energy": 52.05,
+        "flux": 0.0064333333
+    },
+    {
+        "name": "salt",
+        "energy": 52.15,
+        "flux": 0.0056333333
+    },
+    {
+        "name": "salt",
+        "energy": 52.25,
+        "flux": 0.0037666667
+    },
+    {
+        "name": "salt",
+        "energy": 52.35,
+        "flux": 0.0023
+    },
+    {
+        "name": "salt",
+        "energy": 52.45,
+        "flux": 0.0017333333
+    },
+    {
+        "name": "salt",
+        "energy": 52.55,
+        "flux": 0.0011333333
+    },
+    {
+        "name": "salt",
+        "energy": 52.65,
+        "flux": 0.0007666667
+    },
+    {
+        "name": "salt",
+        "energy": 52.75,
+        "flux": 0.0003666667
+    },
+    {
+        "name": "salt",
+        "energy": 52.85,
+        "flux": 0.0003333333
+    },
+    {
+        "name": "salt",
+        "energy": 52.95,
+        "flux": 0.0003
+    },
+    {
+        "name": "salt",
+        "energy": 53.05,
+        "flux": 0.0002
+    },
+    {
+        "name": "salt",
+        "energy": 53.15,
+        "flux": 0.0003
+    },
+    {
+        "name": "metal",
+        "energy": 45.15,
+        "flux": 3.33333e-05
+    },
+    {
+        "name": "metal",
+        "energy": 45.25,
+        "flux": 0.0
+    },
+    {
+        "name": "metal",
+        "energy": 45.35,
+        "flux": 3.33333e-05
+    },
+    {
+        "name": "metal",
+        "energy": 45.45,
+        "flux": 0.0001166667
+    },
+    {
+        "name": "metal",
+        "energy": 45.55,
+        "flux": 0.00015
+    },
+    {
+        "name": "metal",
+        "energy": 45.65,
+        "flux": 0.0001666667
+    },
+    {
+        "name": "metal",
+        "energy": 45.75,
+        "flux": 0.00025
+    },
+    {
+        "name": "metal",
+        "energy": 45.85,
+        "flux": 0.0004333333
+    },
+    {
+        "name": "metal",
+        "energy": 45.95,
+        "flux": 0.0004
+    },
+    {
+        "name": "metal",
+        "energy": 46.05,
+        "flux": 0.0006833333
+    },
+    {
+        "name": "metal",
+        "energy": 46.15,
+        "flux": 0.00115
+    },
+    {
+        "name": "metal",
+        "energy": 46.25,
+        "flux": 0.0014333333
+    },
+    {
+        "name": "metal",
+        "energy": 46.35,
+        "flux": 0.0013833333
+    },
+    {
+        "name": "metal",
+        "energy": 46.45,
+        "flux": 0.0025666667
+    },
+    {
+        "name": "metal",
+        "energy": 46.55,
+        "flux": 0.0025166667
+    },
+    {
+        "name": "metal",
+        "energy": 46.65,
+        "flux": 0.0041666667
+    },
+    {
+        "name": "metal",
+        "energy": 46.75,
+        "flux": 0.0054
+    },
+    {
+        "name": "metal",
+        "energy": 46.85,
+        "flux": 0.0054833333
+    },
+    {
+        "name": "metal",
+        "energy": 46.95,
+        "flux": 0.0062333333
+    },
+    {
+        "name": "metal",
+        "energy": 47.05,
+        "flux": 0.0087833333
+    },
+    {
+        "name": "metal",
+        "energy": 47.15,
+        "flux": 0.0095833333
+    },
+    {
+        "name": "metal",
+        "energy": 47.25,
+        "flux": 0.01145
+    },
+    {
+        "name": "metal",
+        "energy": 47.35,
+        "flux": 0.0133
+    },
+    {
+        "name": "metal",
+        "energy": 47.45,
+        "flux": 0.0146166667
+    },
+    {
+        "name": "metal",
+        "energy": 47.55,
+        "flux": 0.0163166667
+    },
+    {
+        "name": "metal",
+        "energy": 47.65,
+        "flux": 0.0179
+    },
+    {
+        "name": "metal",
+        "energy": 47.75,
+        "flux": 0.0194166667
+    },
+    {
+        "name": "metal",
+        "energy": 47.85,
+        "flux": 0.0206666667
+    },
+    {
+        "name": "metal",
+        "energy": 47.95,
+        "flux": 0.0222
+    },
+    {
+        "name": "metal",
+        "energy": 48.05,
+        "flux": 0.0237833333
+    },
+    {
+        "name": "metal",
+        "energy": 48.15,
+        "flux": 0.0244166667
+    },
+    {
+        "name": "metal",
+        "energy": 48.25,
+        "flux": 0.0251
+    },
+    {
+        "name": "metal",
+        "energy": 48.35,
+        "flux": 0.0266666667
+    },
+    {
+        "name": "metal",
+        "energy": 48.45,
+        "flux": 0.0264833333
+    },
+    {
+        "name": "metal",
+        "energy": 48.55,
+        "flux": 0.0268166667
+    },
+    {
+        "name": "metal",
+        "energy": 48.65,
+        "flux": 0.0282166667
+    },
+    {
+        "name": "metal",
+        "energy": 48.75,
+        "flux": 0.02795
+    },
+    {
+        "name": "metal",
+        "energy": 48.85,
+        "flux": 0.0282333333
+    },
+    {
+        "name": "metal",
+        "energy": 48.95,
+        "flux": 0.0288833333
+    },
+    {
+        "name": "metal",
+        "energy": 49.05,
+        "flux": 0.02825
+    },
+    {
+        "name": "metal",
+        "energy": 49.15,
+        "flux": 0.0279333333
+    },
+    {
+        "name": "metal",
+        "energy": 49.25,
+        "flux": 0.0299166667
+    },
+    {
+        "name": "metal",
+        "energy": 49.35,
+        "flux": 0.0280833333
+    },
+    {
+        "name": "metal",
+        "energy": 49.45,
+        "flux": 0.0287333333
+    },
+    {
+        "name": "metal",
+        "energy": 49.55,
+        "flux": 0.0280666667
+    },
+    {
+        "name": "metal",
+        "energy": 49.65,
+        "flux": 0.0284333333
+    },
+    {
+        "name": "metal",
+        "energy": 49.75,
+        "flux": 0.0262333333
+    },
+    {
+        "name": "metal",
+        "energy": 49.85,
+        "flux": 0.02955
+    },
+    {
+        "name": "metal",
+        "energy": 49.95,
+        "flux": 0.02635
+    },
+    {
+        "name": "metal",
+        "energy": 50.05,
+        "flux": 0.0264
+    },
+    {
+        "name": "metal",
+        "energy": 50.15,
+        "flux": 0.0247833333
+    },
+    {
+        "name": "metal",
+        "energy": 50.25,
+        "flux": 0.0240333333
+    },
+    {
+        "name": "metal",
+        "energy": 50.35,
+        "flux": 0.0231666667
+    },
+    {
+        "name": "metal",
+        "energy": 50.45,
+        "flux": 0.0222666667
+    },
+    {
+        "name": "metal",
+        "energy": 50.55,
+        "flux": 0.0200166667
+    },
+    {
+        "name": "metal",
+        "energy": 50.65,
+        "flux": 0.0192833333
+    },
+    {
+        "name": "metal",
+        "energy": 50.75,
+        "flux": 0.01635
+    },
+    {
+        "name": "metal",
+        "energy": 50.85,
+        "flux": 0.0148333333
+    },
+    {
+        "name": "metal",
+        "energy": 50.95,
+        "flux": 0.01365
+    },
+    {
+        "name": "metal",
+        "energy": 51.05,
+        "flux": 0.0116333333
+    },
+    {
+        "name": "metal",
+        "energy": 51.15,
+        "flux": 0.01005
+    },
+    {
+        "name": "metal",
+        "energy": 51.25,
+        "flux": 0.0086166667
+    },
+    {
+        "name": "metal",
+        "energy": 51.35,
+        "flux": 0.0069833333
+    },
+    {
+        "name": "metal",
+        "energy": 51.45,
+        "flux": 0.0051666667
+    },
+    {
+        "name": "metal",
+        "energy": 51.55,
+        "flux": 0.0046333333
+    },
+    {
+        "name": "metal",
+        "energy": 51.65,
+        "flux": 0.0035833333
+    },
+    {
+        "name": "metal",
+        "energy": 51.75,
+        "flux": 0.0028666667
+    },
+    {
+        "name": "metal",
+        "energy": 51.85,
+        "flux": 0.0019
+    },
+    {
+        "name": "metal",
+        "energy": 51.95,
+        "flux": 0.0014666667
+    },
+    {
+        "name": "metal",
+        "energy": 52.05,
+        "flux": 0.0011
+    },
+    {
+        "name": "metal",
+        "energy": 52.15,
+        "flux": 0.00075
+    },
+    {
+        "name": "metal",
+        "energy": 52.25,
+        "flux": 0.0004833333
+    },
+    {
+        "name": "metal",
+        "energy": 52.35,
+        "flux": 0.00035
+    },
+    {
+        "name": "metal",
+        "energy": 52.45,
+        "flux": 0.0002333333
+    },
+    {
+        "name": "metal",
+        "energy": 52.55,
+        "flux": 0.0002
+    },
+    {
+        "name": "metal",
+        "energy": 52.65,
+        "flux": 6.66667e-05
+    },
+    {
+        "name": "metal",
+        "energy": 52.75,
+        "flux": 5e-05
+    },
+    {
+        "name": "metal",
+        "energy": 52.85,
+        "flux": 5e-05
+    },
+    {
+        "name": "metal",
+        "energy": 52.95,
+        "flux": 3.33333e-05
+    },
+    {
+        "name": "metal",
+        "energy": 53.05,
+        "flux": 6.66667e-05
+    }
+]

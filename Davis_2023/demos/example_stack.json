@@ -1,0 +1,30 @@
+[
+    {
+        "name": "water",
+        "compound": "H2O",
+        "areal_density": 800.0,
+        "mu_E": 55.440116,
+        "sig_E": 2.9352552484
+    },
+    {
+        "name": "salt",
+        "compound": "RbCl",
+        "areal_density": 9.0,
+        "mu_E": 50.6633466667,
+        "sig_E": 0.6822051499
+    },
+    {
+        "name": null,
+        "compound": "Kapton",
+        "areal_density": 3.55,
+        "mu_E": 50.6076,
+        "sig_E": 0.6822044464
+    },
+    {
+        "name": "metal",
+        "compound": "Brass",
+        "areal_density": 350.0,
+        "mu_E": 49.154165,
+        "sig_E": 1.2048563481
+    }
+]
